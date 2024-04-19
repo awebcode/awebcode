@@ -2,15 +2,14 @@
 <h3 align="center">A passionate full stack web & real-time application developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on [Chatiaa](https://chatiaa.vercel.app)
+- 🔭 I’m currently developing and building messsenger clone web app [Chatiaa]https://chatiaa.vercel.app
 
-- 🌱 I’m currently learning **Graphql,Next.Js,Node js,Socket.Io and more**
+- 🌱 I’m currently learning Graphql,Next.Js,Node js,Redux and more Advanced features 
 
-- 👨‍💻 All of my projects are available at [https://asikur.vercel.app](https://asikur.vercel.app)
+- 👨‍💻 Some of my projects are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
-- 📝 I regularly write articles on [https://asikur.vercel.app/Blog](https://asikur.vercel.app)
 
-- 💬 Ask me about **Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs,Next-Auth,Redux,React-Query,Databases,Socket.Io,WS**
+- 💬 Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs,Next-Auth,Redux,React-Query,Databases,Socket.Io,WS
 
 - 📫 How to reach me **asikurrahaman997@gmail.com|01893585782-whatsapp**
 
