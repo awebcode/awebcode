@@ -11,9 +11,12 @@
 
 - 💬 Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs,Next-Auth,Redux,React-Query,Databases,Socket.Io,WS
 
-- 📫 How to reach me **asikurrahaman997@gmail.com|01893585782-whatsapp**
+- 📫 How to reach me asikurrahaman997@gmail.com || 01893585782 - whatsapp
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view](https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view)
+- 📄 Know about my experiences and Resume [https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view](https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view)
+
+- 🚀Resume - [https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view](https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view)
+
 
 - ⚡ Fun fact **I believe in continuous learning and stay updated with the latest trends in web development to deliver top-notch solutions.**
 
