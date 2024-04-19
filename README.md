@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
-- 📝 I regularly write articles on [https://asikur.vercel.app/Blog](https://asikur.vercel.app/Blog)
+- 📝 I regularly write articles on [https://asikur.vercel.app/Blog](https://asikur.vercel.app)
 
 - 💬 Ask me about **Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs,Next-Auth,Redux,React-Query,Databases,Socket.Io,WS**
 
