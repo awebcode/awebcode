@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently Using  Typescript, MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features
   
-  #Skills
+  # **Skills**
+  
   - **Front-End:** React, Next.js, Tailwind, Redux Toolkit, React Query, Zustand, Zod, React Hook Form
   - **Back-End :** Node.js, Express, Nest.js, Socket.io, REST, GraphQL
   - **Devops:** Docker, Nginx, GitHub Actions , Vercel
