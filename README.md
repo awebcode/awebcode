@@ -15,7 +15,7 @@
   - **🌟 Front-End:** React, Next.js, Tailwind, Redux Toolkit, React Query, Zustand, Zod, React Hook Form
 - **⚙️ Back-End:** Node.js, Express, Nest.js, Socket.io, REST, GraphQL
 - **☁️ DevOps:** Docker, Nginx, GitHub Actions, Vercel
-- **📚 Documentation:** Swagger, Postman, Insomnia
+- **📚 Documentation:** JsDoc, Swagger, Postman, Insomnia
 - **🔧 Familiarities:** PHP, Laravel, Vue, Nuxt
 - **🎯 Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
 
