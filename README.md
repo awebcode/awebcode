@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
 
-- 🌱 I’m currently Using  MERN, Graphql,Next.Js,Node js,Redux, React Query and more Advanced features 
+- 🌱 I’m currently Using  MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features 
 
 - 👨‍💻 Some of my projects and portfolio are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
