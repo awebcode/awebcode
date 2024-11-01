@@ -33,7 +33,7 @@
 <!-- BLOG-POST-LIST:END -->
 ## Portfolio: [Preview](https://asikur.vercel.app)
 ## Email: asikurrahaman997@gmail.com
-## Whatsapp: 01893585782
+## Whatsapp: 01893585782 | 01852012585
 ## Facebook : https://facebook.com/awebcodee
 <p align="left">
 <a href="https://codepen.io/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@awebcode" height="30" width="40" /></a>
