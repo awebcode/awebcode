@@ -2,9 +2,9 @@
 # <h3 align="center">A passionate full stack web & real-time application developer from Bangladesh</h3>
 
 
-- ###  🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
+-  🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
 
-- ### 🌱 I’m currently Using  Typescript, MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features
+-  🌱 I’m currently Using  Typescript, MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features
   
   # **Skills**
   
@@ -15,15 +15,15 @@
   - **Familiarities :** PHP, Laravel, Vue, Nuxt
    - **Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
   
-- ### 👨‍💻 Some of my projects and portfolio are available at [https://asikur.vercel.app](https://asikur.vercel.app)
+-  👨‍💻 Some of my projects and portfolio are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
 
-- ### 💬 Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
+-  💬 Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
 
-- ### 📫 How to reach me asikurrahaman997@gmail.com | 01893585782 
-- ### 📄 Know about my experiences and Resume [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
+-  📫 How to reach me asikurrahaman997@gmail.com | 01893585782 
+-  📄 Know about my experiences and Resume [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
-- # 🚀Resume - [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
+- ### 🚀Resume - [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
 
 - # ⚡ Fun fact **I believe in continuous learning and stay updated with the latest trends in web development to deliver top-notch solutions.**
@@ -31,7 +31,7 @@
 # Contact Me
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+## Portfolio: [Preview](https://asikur.vercel.app)
 ## Email: asikurrahaman997@gmail.com
 ## Whatsapp: 01893585782
 ## Facebook : https://facebook.com/awebcodee
