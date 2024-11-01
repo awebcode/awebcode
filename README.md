@@ -4,14 +4,12 @@
 
 - 💎 I have **four years of hands-on web development experience** since 2020, building projects, working remotely, exploring real-world solutions, and refining my skills. This has equipped me with practical expertise in modern frameworks and best practices for developing scalable applications.
 
-
-
 -  🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
 
 -  🌱 I’m currently Using  Typescript, MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features
--  
+
 -  💎 I enjoy tackling complex challenges and continuously expanding my knowledge in web development. Let's connect and build something amazing together!
--  
+
   # **⚡Skills**
   
   - **🌟 Front-End:** React, Next.js, Tailwind, Redux Toolkit, React Query, Zustand, Zod, React Hook Form
