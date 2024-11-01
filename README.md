@@ -2,12 +2,10 @@
 # <h1 align="center">⚡ Hello, I'm Asikur Rahman</h1>
 ### <h3 align="center">🚀 Full Stack Web Developer & Enthusiast</h3>
 
-- <p align="center">
-  💎 I'm a dedicated full-stack web developer with expertise in creating dynamic and responsive web applications. I thrive on turning ideas into reality using modern frameworks and technologies like Node.js, Express, Next.js, and Tailwind CSS.
+- <p align="center">💎 I'm a dedicated full-stack web developer with expertise in creating dynamic and responsive web applications. I thrive on turning ideas into reality using modern frameworks and technologies like Node.js, Express, Next.js, and Tailwind CSS.
 </p>
 
-- <p align="center">
-   💎 I enjoy tackling complex challenges and continuously expanding my knowledge in web development. Let's connect and build something amazing together!
+- <p align="center">💎 I enjoy tackling complex challenges and continuously expanding my knowledge in web development. Let's connect and build something amazing together!
 </p>
 
 -  🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
@@ -16,13 +14,13 @@
   
   # **Skills**
   
-  - **Front-End:** React, Next.js, Tailwind, Redux Toolkit, React Query, Zustand, Zod, React Hook Form
-  - **Back-End :** Node.js, Express, Nest.js, Socket.io, REST, GraphQL
-  - **Devops:** Docker, Nginx, GitHub Actions , Vercel
-  - **Documentation:** Swagger, Postman, Insomnia
-  - **Familiarities :** PHP, Laravel, Vue, Nuxt
-   - **Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
-  
+  - **🌟 Front-End:** React, Next.js, Tailwind, Redux Toolkit, React Query, Zustand, Zod, React Hook Form
+- **⚙️ Back-End:** Node.js, Express, Nest.js, Socket.io, REST, GraphQL
+- **☁️ DevOps:** Docker, Nginx, GitHub Actions, Vercel
+- **📚 Documentation:** Swagger, Postman, Insomnia
+- **🔧 Familiarities:** PHP, Laravel, Vue, Nuxt
+- **🎯 Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
+
 -  👨‍💻 Some of my projects and portfolio are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
 -  💬  Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
