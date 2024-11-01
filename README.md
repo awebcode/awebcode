@@ -2,20 +2,19 @@
 <h3 align="center">A passionate full stack web & real-time application developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently developing and building messsenger clone web app [Chatiaa]https://chatiaa.vercel.app
+- 🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
 
-- 🌱 I’m currently learning Graphql,Next.Js,Node js,Redux and more Advanced features 
+- 🌱 I’m currently Using  MERN, Graphql,Next.Js,Node js,Redux, React Query and more Advanced features 
 
-- 👨‍💻 Some of my projects are available at [https://asikur.vercel.app](https://asikur.vercel.app)
+- 👨‍💻 Some of my projects and portfolio are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
 
-- 💬 Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs,Next-Auth,Redux,React-Query,Databases,Socket.Io,WS
+- 💬 Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
 
-- 📫 How to reach me asikurrahaman997@gmail.com || 01893585782 - whatsapp
+- 📫 How to reach me asikurrahaman997@gmail.com | 01893585782 
+- 📄 Know about my experiences and Resume [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
-- 📄 Know about my experiences and Resume [https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view](https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view)
-
-- 🚀Resume - [https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view](https://drive.google.com/file/d/1yCpnKvPymRBP7NH2F-g9HWbA3wTF3c-5/view)
+- 🚀Resume - [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
 
 - ⚡ Fun fact **I believe in continuous learning and stay updated with the latest trends in web development to deliver top-notch solutions.**
