@@ -1,6 +1,14 @@
-# <h1 align="center">Hi 👋, I'm Asikur Rahman@awebcode</h1>
-# <h3 align="center">A passionate full stack web & real-time application developer from Bangladesh</h3>
 
+# <h1 align="center">👋 Hello, I'm Asikur Rahman</h1>
+### <h3 align="center">Full Stack Web Developer & Enthusiast</h3>
+
+- <p align="center">
+  I'm a dedicated full-stack web developer with expertise in creating dynamic and responsive web applications. I thrive on turning ideas into reality using modern frameworks and technologies like Node.js, Express, Next.js, and Tailwind CSS.
+</p>
+
+- <p align="center">
+  I enjoy tackling complex challenges and continuously expanding my knowledge in web development. Let's connect and build something amazing together!
+</p>
 
 -  🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
 
