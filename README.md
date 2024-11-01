@@ -18,15 +18,15 @@
 -  👨‍💻 Some of my projects and portfolio are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
 
--  💬 Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
+-  💬  Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
 
--  📫 How to reach me asikurrahaman997@gmail.com | 01893585782 
--  📄 Know about my experiences and Resume [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
+-  📫  How to reach me asikurrahaman997@gmail.com | 01893585782 
+-  📄  Know about my experiences and Resume [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
-- ### 🚀Resume - [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
+- #### **🚀 Resume** - [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
 
-- # ⚡ Fun fact **I believe in continuous learning and stay updated with the latest trends in web development to deliver top-notch solutions.**
+-  ⚡ Fun fact **I believe in continuous learning and stay updated with the latest trends in web development to deliver top-notch solutions.**
 
 # Contact Me
 <!-- BLOG-POST-LIST:START -->
