@@ -4,8 +4,16 @@
 
 - 🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
 
-- 🌱 I’m currently Using  MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features 
-
+- 🌱 I’m currently Using  Typescript, MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features
+  
+  #Skills
+  - **Front-End:** React, Next.js, Tailwind, Redux Toolkit, React Query, Zustand, Zod, React Hook Form
+  - **Back-End :** Node.js, Express, Nest.js, Socket.io, REST, GraphQL
+  - **Devops:** Docker, Nginx, GitHub Actions , Vercel
+  - **Documentation:** Swagger, Postman, Insomnia
+  - **Familiarities :** PHP, Laravel, Vue, Nuxt
+   -**Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
+  
 - 👨‍💻 Some of my projects and portfolio are available at [https://asikur.vercel.app](https://asikur.vercel.app)
 
 
