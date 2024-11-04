@@ -20,6 +20,7 @@
 - **🎯 Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
 
 -  👨‍💻 Some of my projects and portfolio are available at [https://awebcode.vercel.app](https://awebcode.vercel.app)
+-  Youtube Tutorials [Youtube](https:///youtube.com/@awebcode)
 
 -  💬  Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
 
@@ -37,6 +38,7 @@
 ## Email: asikurrahaman997@gmail.com
 ## Whatsapp: 01893585782 | 01852012585
 ## Facebook : https://facebook.com/awebcodee
+## Youtube : https:///youtube.com/@awebcode
 <p align="left">
 <a href="https://codepen.io/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@awebcode" height="30" width="40" /></a>
 <a href="https://dev.to/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@awebcode" height="30" width="40" /></a>
