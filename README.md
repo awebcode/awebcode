@@ -35,7 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ## Portfolio: [Preview](https://awebcode.vercel.app)
-## Email: asikurrahaman997@gmail.com
+## Email: awebcode0@gmail.com
 ## Whatsapp: 01893585782 | 01852012585
 ## Facebook : https://facebook.com/awebcodestudio
 ## Youtube : https:///youtube.com/@awebcode
