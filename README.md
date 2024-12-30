@@ -24,7 +24,6 @@
 
 -  💬  Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
 
--  📄  Know about my experiences and Resume [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
 - #### **🚀 Resume** - [https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit](https://www.canva.com/design/DAFuVlHGZVc/AAHGrFxeLFLIOy16wW4uoA/edit)
 
