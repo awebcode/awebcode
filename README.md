@@ -20,7 +20,7 @@
 - **🎯 Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
 
 -  👨‍💻 Some of my projects and portfolio are available at [https://awebcode.vercel.app](https://awebcode.vercel.app)
--  Youtube Tutorials [Youtube](https:///youtube.com/@awebcode)
+-  Youtube Tutorials [Youtube](https://youtube.com/@awebcode)
 
 -  💬  Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
 
