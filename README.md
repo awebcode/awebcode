@@ -12,12 +12,12 @@
 
   # **⚡Skills**
   
-  - **🌟 Front-End:** React, Next.js, Tailwind, Redux Toolkit, React Query, Zustand, Zod, React Hook Form
-- **⚙️ Back-End:** Node.js, Express, Nest.js, Socket.io, REST, GraphQL
-- **☁️ DevOps:** Docker, Nginx, GitHub Actions, Vercel
+  - **🌟 Front-End:** React, Next.js, Tailwind, Shadcn, React Query, Zustand, Zod, React Hook Form
+- **⚙️ Back-End:** Node.js, Express, Nest.js, Socket.io, REST, GraphQL , Redis , BullMQ
+- **☁️ DevOps:** CI/CD, Docker, Nginx, GitHub Actions, Vercel
 - **📚 Documentation:** JsDoc, Swagger, Postman, Insomnia
-- **🔧 Familiarities:** PHP, Laravel, Vue, Nuxt
-- **🎯 Primary Stack:** Next.js, Node.js, Postgres, Prisma, Shadcn, Framer Motion, Swiper, Auth.js, Next-Intl
+- **🔧 Familiarities:** PHP, Python, Golang, Vue, Nuxt
+- **🎯 Primary Stack:** Nest/Express.js, Postgres/MySQL, Prisma , WebSocket , Queue , React+Shadcn
 
 -  👨‍💻 Some of my projects and portfolio are available at [https://awebcode.vercel.app](https://awebcode.vercel.app)
 -  Youtube Tutorials [Youtube](https://youtube.com/@awebcode)
@@ -47,13 +47,13 @@
 <a href="https://instagram.com/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@awebcode" height="30" width="40" /></a>
 <a href="https://dribbble.com/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="@awebcode" height="30" width="40" /></a>
 <a href="https://www.behance.net/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@awebcode" height="30" width="40" /></a>
-<a href="https://hashnode.com/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@awebcode" height="30" width="40" /></a>
+
 <a href="https://medium.com/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@awebcode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@awebcode" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/awebcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@awebcode" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@awebcode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@awebcode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@awebcode" height="30" width="40" /></a>
+
 <a href="https://discord.gg/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@awebcode" height="30" width="40" /></a>
 </p>
 
