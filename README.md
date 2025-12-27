@@ -34,7 +34,7 @@
 ## Portfolio: [Preview](https://awebcode.netlify.app)
 ## Email: awebcode0@gmail.com
 ## Whatsapp: 01893585782 | 01852012585
-## Facebook : https://facebook.com/awebcodestudio
+## Facebook : https://facebook.com/awebcodee
 ## Youtube : https:///youtube.com/@awebcode
 <p align="left">
 <a href="https://codepen.io/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@awebcode" height="30" width="40" /></a>
