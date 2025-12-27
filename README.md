@@ -19,7 +19,7 @@
 - **🔧 Familiarities:** PHP, Python, Golang, Vue, Nuxt
 - **🎯 Primary Stack:** Nest/Express.js, Postgres/MySQL, Prisma , WebSocket , Queue , React+Shadcn
 
--  👨‍💻 Some of my projects and portfolio are available at [https://awebcode.vercel.app](https://awebcode.vercel.app)
+-  👨‍💻 Some of my projects and portfolio are available at [https://awebcode.vercel.app](https://awebcode.netlify.app/)
 -  Youtube Tutorials [Youtube](https://youtube.com/@awebcode)
 
 -  💬  Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
@@ -31,7 +31,7 @@
 # ⚡ Contact Me
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-## Portfolio: [Preview](https://awebcode.vercel.app)
+## Portfolio: [Preview](https://awebcode.netlify.app)
 ## Email: awebcode0@gmail.com
 ## Whatsapp: 01893585782 | 01852012585
 ## Facebook : https://facebook.com/awebcodestudio
