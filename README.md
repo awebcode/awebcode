@@ -1,41 +1,192 @@
 
-# <h1 align="center">⚡ Hello, I'm Asikur Founder of Awebcode </h1>
-### <h3 align="center">🚀 Full Stack Software Engineer</h3>
-
-- 💎 I have **four years of hands-on web development experience** since 2020, building projects, working remotely, exploring real-world solutions, and refining my skills. This has equipped me with practical expertise in modern frameworks and best practices for developing scalable applications.
-
--  🔭 I’m currently developing and building nextjs and nodejs ecommerce apps optimizing medusa
-
--  🌱 I’m currently Using  Typescript, MERN, Graphql,Next.Js,Node js, Prisma, Redux, React Query and more Advanced features
-
--  💎 I enjoy tackling complex challenges and continuously expanding my knowledge in web development. Let's connect and build something amazing together!
-
-  # **⚡Skills**
-  
-  - **🌟 Front-End:** React, Next.js, Tailwind, Shadcn, React Query, Zustand, Zod, React Hook Form
-- **⚙️ Back-End:** Node.js, Express, Nest.js, Socket.io, REST, GraphQL , Redis , BullMQ
-- **☁️ DevOps:** CI/CD, Docker, Nginx, GitHub Actions, Vercel
-- **📚 Documentation:** JsDoc, Swagger, Postman, Insomnia
-- **🔧 Familiarities:** PHP, Python, Golang, Vue, Nuxt
-- **🎯 Primary Stack:** Nest/Express.js, Postgres/MySQL, Prisma , WebSocket , Queue , React+Shadcn
-
--  👨‍💻 Some of my projects and portfolio are available at [https://awebcode.netlify.app](https://awebcode.netlify.app)
--  Youtube Tutorials [Youtube](https://youtube.com/@awebcode)
-
--  💬  Ask me about Html,CSS,Javascript,TailwindCSS,Bootstrap,React Js,Nextjs,Nodejs,ExpressJs, Nest.js, Next-Auth,Redux,React-Query,Prisma, Databases,Socket.Io,WS
 
 
+# <h1 align="center">⚡ Asikur Rahman</h1>
+### <h3 align="center">🚀 Full Stack Software Engineer | Founder of Awebcode</h3>
 
--  ⚡ Fun fact **I believe in continuous learning and stay updated with the latest trends in web development to deliver top-notch solutions.**
+<p align="center">
+Building scalable, production-grade web applications and SaaS platforms with expertise in end-to-end system design, complex business workflows, and performance-focused architectures.
+</p>
 
-# ⚡ Contact Me
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-## Portfolio: [Preview](https://awebcode.netlify.app)
-## Email: awebcode0@gmail.com
-## Whatsapp: 01893585782 | 01852012585
-## Facebook : https://facebook.com/awebcodee
-## Youtube : https:///youtube.com/@awebcode
+---
+
+## 📋 About Me
+
+I'm a Full-Stack Software Engineer with 5 years of hands-on experience developing robust web applications and SaaS solutions. I specialize in creating complete system architectures, implementing complex business logic, and optimizing application performance. My work spans both freelance projects and enterprise applications, consistently delivering reliable solutions using clean architecture principles and modern engineering practices.
+
+---
+
+## 🛠️ Technical Expertise
+
+### Primary Stack
+<p>
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/Websocket-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/BullMQ-F7DF1E?style=flat-square&logo=queue&logoColor=black" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+</p>
+
+### Front-End Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo GraphQL" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Websocket-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSocket" />
+</p>
+
+### Back-End Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/Websocket-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/BullMQ-F7DF1E?style=flat-square&logo=queue&logoColor=black" alt="BullMQ" />
+</p>
+
+### Database Technologies
+<p>
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
+</p>
+
+### DevOps & Cloud Services
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloudinary-3498DB?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
+
+### Tools & Integrations
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27E?style=flat-square&logo=passport&logoColor=black" alt="Passport.js" />
+  <img src="https://img.shields.io/badge/Postmark-FF6F61?style=flat-square&logo=postmark&logoColor=white" alt="Postmark" />
+  <img src="https://img.shields.io/badge/Twilio-E22C2E?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/SendGrid-03A9F4?style=flat-square&logo=sendgrid&logoColor=white" alt="SendGrid" />
+</p>
+
+### Additional Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer — SaaS CRM Platform
+**OrangeToolz** | 2025 – Present
+- Built and scaled a multi-tenant SaaS CRM platform with modular architecture
+- Implemented third-party integrations and AI-driven automation features
+- Developed real-time communication and collaboration tools
+
+### Full-Stack Web Developer
+**Freelance** | 2021 – 2025
+- Delivered end-to-end client projects using modern frameworks
+- Implemented real-time features and CI/CD workflows
+- Built scalable, high-performance solutions for diverse business needs
+
+---
+
+## 🎓 Education
+
+### Bachelor of Science in Computer Science
+**Uttara University** | 2025 – 2028
+
+### Diploma in Computer Engineering
+**Jhenaidah Polytechnic Institute** | 2020 – 2024
+
+---
+
+## 🚀 Featured Projects
+
+### Wagent.ai – WhatsApp Business Management Platform (SaaS)
+Enterprise-grade CRM for sales and support teams featuring:
+- Real-time inbox with smart agent assignment
+- Contact management and CSV processing
+- Broadcast campaigns and trigger automations
+- Stripe subscriptions and multi-account support
+- Analytics dashboards and mobile-friendly design
+
+**Tech Stack:** NestJS, Prisma, MySQL, Redis, BullMQ, Socket.io, React, TypeScript, Vite, Zustand, React Query, ShadCN UI
+
+[Live Demo](https://wagend-app.testdomains1.com)
+
+### Dialytics – AI Call Transcription & Analytics (SaaS)
+AI-powered call analysis platform with:
+- Transcription and sentiment analysis
+- PDF report generation with email delivery
+- Performance leaderboards and analytics dashboards
+- Stripe billing and audio playback with waveform
+
+**Tech Stack:** Node.js, Express, Sequelize, MySQL, Socket.io, React, TypeScript, Vite, Zustand
+
+[Live Demo](https://dialytics.netlify.app/team-admin/dashboard)
+
+### Super Local Fans – Social CRM & UGC Platform
+All-in-one platform for content creation and customer engagement:
+- Dynamic QR codes and social post automation
+- Loyalty programs and microservices architecture
+- Multi-provider authentication and analytics
+
+**Tech Stack:** NestJS, GraphQL, Apollo, Redis, BullMQ, AWS S3, React, React Query
+
+[Live Demo](https://superlocalfans.com/)
+
+---
+
+## 📧 Get In Touch
+
+I'm always interested in hearing about new opportunities and exciting projects.
+
+- **Portfolio:** [awebcode.netlify.app](https://awebcode.netlify.app)
+- **Email:** asikurrahaman997@gmail.com
+- **LinkedIn:** [linkedin.com/in/awebcode](https://linkedin.com/in/awebcode)
+- **GitHub:** [github.com/awebcode](https://github.com/awebcode)
+- **YouTube:** [youtube.com/@awebcode](https://youtube.com/@awebcode)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awebcode&style=for-the-badge" alt="Profile views" />
+</p>
+
+
+
+
 <p align="left">
 <a href="https://codepen.io/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@awebcode" height="30" width="40" /></a>
 <a href="https://dev.to/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@awebcode" height="30" width="40" /></a>
