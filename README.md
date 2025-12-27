@@ -180,12 +180,6 @@ I'm always interested in hearing about new opportunities and exciting projects.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awebcode&style=for-the-badge" alt="Profile views" />
-</p>
-
-
-
 
 <p align="left">
 <a href="https://codepen.io/awebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@awebcode" height="30" width="40" /></a>
