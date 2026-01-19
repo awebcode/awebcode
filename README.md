@@ -172,7 +172,7 @@ All-in-one platform for content creation and customer engagement:
 
 I'm always interested in hearing about new opportunities and exciting projects.
 
-- **Portfolio:** [awebcode.netlify.app](https://awebcode.com)
+- **Portfolio:** [awebcode.com](https://awebcode.com)
 - **Email:** asikurrahaman997@gmail.com
 - **LinkedIn:** [linkedin.com/in/awebcode](https://linkedin.com/in/awebcode)
 - **GitHub:** [github.com/awebcode](https://github.com/awebcode)
