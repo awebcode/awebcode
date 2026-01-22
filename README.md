@@ -133,7 +133,7 @@ I'm a Full-Stack Software Engineer with 5 years of hands-on experience developin
 
 ## 🚀 Featured Projects
 
-### Wagent.ai – WhatsApp Business Management Platform (SaaS)
+### Chat CRM – WhatsApp Business Management Platform (SaaS)
 Enterprise-grade CRM for sales and support teams featuring:
 - Real-time inbox with smart agent assignment
 - Contact management and CSV processing
@@ -143,7 +143,7 @@ Enterprise-grade CRM for sales and support teams featuring:
 
 **Tech Stack:** NestJS, Prisma, MySQL, Redis, BullMQ, Socket.io, React, TypeScript, Vite, Zustand, React Query, ShadCN UI
 
-[Live Demo](https://wagend-app.testdomains1.com)
+[Live Demo](https://chat-crm.awebcode.com)
 
 ### Dialytics – AI Call Transcription & Analytics (SaaS)
 AI-powered call analysis platform with:
