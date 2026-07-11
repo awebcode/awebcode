@@ -1,10 +1,10 @@
 # Asikur Rahman
 
-Full-stack engineer in Dhaka. I build multi-tenant SaaS backends — real-time systems, queue-driven pipelines, LLM orchestration, and the billing and access-control layers underneath them.
+Full-stack engineer in Dhaka. I build multi-tenant SaaS backends — real-time systems, queue-driven pipelines, fleet telemetry, LLM orchestration, and the billing and access-control layers underneath them.
 
 Currently at **OrangeToolz**, where I've built two products end to end and contributed to two more.
 
-**Stack** — TypeScript · NestJS · Node.js · PostgreSQL · Prisma · Redis · BullMQ · Socket.io · React · Next.js · Docker · Kubernetes
+**Stack** — TypeScript · JavaScript · PHP · NestJS · Node.js · PostgreSQL · Prisma · Redis · BullMQ · Socket.io · React · Next.js · Docker · Kubernetes
 **AI** — OpenRouter (multi-provider orchestration) · MCP · RAG
 
 ---
@@ -24,6 +24,12 @@ Real-time inbox on Socket.io with the Redis adapter, so sessions and presence su
 FFmpeg normalises uploaded recordings; Piscina worker threads run transcription and sentiment analysis off the event loop; results render to Markdown-to-PDF reports delivered via Postmark. Stripe billing, role-based access, waveform playback.
 
 `Node.js` `Express` `Piscina` `FFmpeg` `Sequelize` `MySQL` `Socket.io` `React`
+
+**WP Activity Logs** — Fleet telemetry across 1,000+ WordPress sites
+
+A PHP/WordPress plugin that streams core activity, content changes and lorem ipsum detection from every site into a central service in real time, and flags broken integrations (Instagram Feed, Business Reviews) before clients notice them. The fleet telemetry is exposed over **MCP**, so an AI agent can query site health directly.
+
+`PHP` `WordPress` `MCP` `Python`
 
 ---
 
