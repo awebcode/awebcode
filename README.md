@@ -1,30 +1,45 @@
 # Asikur Rahman
 
-Full-stack engineer in Dhaka. I build multi-tenant SaaS backends — real-time systems, queue-driven pipelines, and the billing and access-control layers underneath them.
+Full-stack engineer in Dhaka. I build multi-tenant SaaS backends — real-time systems, queue-driven pipelines, LLM orchestration, and the billing and access-control layers underneath them.
 
-Currently at **OrangeToolz**, shipping four live B2B products.
+Currently at **OrangeToolz**, where I've built two products end to end and contributed to two more.
 
 **Stack** — TypeScript · NestJS · Node.js · PostgreSQL · Prisma · Redis · BullMQ · Socket.io · React · Next.js · Docker · Kubernetes
+**AI** — OpenRouter (multi-provider orchestration) · MCP · RAG
 
 ---
 
-### Selected work
+### Built end to end
 
 **[Wagend](https://app.wagend.com)** — Multi-tenant WhatsApp Business CRM
-Real-time inbox on Socket.io with the Redis adapter, so sessions and presence survive horizontal scaling. Chunked CSV ingestion through parallel BullMQ workers. Stripe subscriptions with idempotent webhooks. Four-tier RBAC enforced at the NestJS guard layer.
-`NestJS` `Prisma` `MySQL` `Redis` `BullMQ` `Socket.io` `React` `TypeScript`
+
+Real-time inbox on Socket.io with the Redis adapter, so sessions and presence survive horizontal scaling instead of being pinned to one node. Chunked CSV ingestion through parallel BullMQ workers. Stripe subscriptions with idempotent webhooks. Four-tier RBAC enforced at the NestJS guard layer.
+
+*AI layer:* RAG-backed smart reply grounded in each tenant's own templates and message history, with MCP tool integration. All inference routed through **OpenRouter rather than hard-coded OpenAI** — model choice, fallback and cost/latency trade-offs are configuration, not a code change.
+
+`NestJS` `Prisma` `MySQL` `Redis` `BullMQ` `Socket.io` `OpenRouter` `MCP` `React` `TypeScript`
+
+**[Dialytics](https://dialytics.awebcode.com)** — AI call transcription & analytics
+
+FFmpeg normalises uploaded recordings; Piscina worker threads run transcription and sentiment analysis off the event loop; results render to Markdown-to-PDF reports delivered via Postmark. Stripe billing, role-based access, waveform playback.
+
+`Node.js` `Express` `Piscina` `FFmpeg` `Sequelize` `MySQL` `Socket.io` `React`
+
+---
+
+### Contributed to
 
 **[Agency Framework](https://app.agencyframework.io)** — Agency operations suite on GoHighLevel
-Built the WebUtility, GHL Reports, Plugins and Notifications modules: GHL data sync into reporting dashboards, an extensible plugin system, and a real-time notification layer.
+
+Built the WebUtility, GHL Reports, Plugins and Notifications modules: GHL data synced into reporting dashboards, an extensible plugin system, and a real-time notification layer.
+
 `NestJS` `React` `PostgreSQL` `Redis` `TypeScript`
 
 **[Super Local Fans](https://superlocalfans.com)** — Social CRM & UGC platform
-Backend services inside a microservices / micro-frontend architecture on Kubernetes. BullMQ drives scheduled publishing across multiple social platforms; Sentry for error tracking.
-`NestJS` `GraphQL` `Apollo` `PostgreSQL` `Kubernetes` `Sentry`
 
-**[Dialytics](https://dialytics.awebcode.com)** — AI call transcription & analytics
-FFmpeg normalises uploaded recordings; Piscina worker threads run transcription and sentiment analysis off the event loop; results render to Markdown-to-PDF reports delivered via Postmark.
-`Node.js` `Express` `Piscina` `FFmpeg` `MySQL` `Socket.io` `React`
+Backend services inside a microservices / micro-frontend architecture on Kubernetes. BullMQ drives scheduled publishing across social platforms; Sentry for error tracking.
+
+`NestJS` `GraphQL` `Apollo` `PostgreSQL` `Kubernetes` `Sentry`
 
 ---
 
