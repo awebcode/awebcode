@@ -19,12 +19,6 @@ Real-time inbox on Socket.io with the Redis adapter, so sessions and presence su
 
 `NestJS` `Prisma` `MySQL` `Redis` `BullMQ` `Socket.io` `OpenRouter` `MCP` `React` `TypeScript`
 
-**[Dialytics](https://dialytics.awebcode.com)** — AI call transcription & analytics
-
-FFmpeg normalises uploaded recordings; Piscina worker threads run transcription and sentiment analysis off the event loop; results render to Markdown-to-PDF reports delivered via Postmark. Stripe billing, role-based access, waveform playback.
-
-`Node.js` `Express` `Piscina` `FFmpeg` `Sequelize` `MySQL` `Socket.io` `React`
-
 **WP Activity Logs** — Fleet telemetry across 1,000+ WordPress sites
 
 A PHP/WordPress plugin that streams core activity, content changes and lorem ipsum detection from every site into a central service in real time, and flags broken integrations (Instagram Feed, Business Reviews) before clients notice them. The fleet telemetry is exposed over **MCP**, so an AI agent can query site health directly.
@@ -37,7 +31,7 @@ A PHP/WordPress plugin that streams core activity, content changes and lorem ips
 
 **[Agency Framework](https://app.agencyframework.io)** — Agency operations suite on GoHighLevel
 
-Built the WebUtility, GHL Reports, Plugins and Notifications modules: GHL data synced into reporting dashboards, an extensible plugin system, and a real-time notification layer.
+Built the backend services — WebUtility, GHL Reports, Plugins and Notifications — syncing GoHighLevel data into reporting dashboards via an extensible plugin system with a real-time notification layer. Integrated those APIs into the management dashboard, so agencies run every client site from one place: per-site analytics and health scores, content diffs, and licence / domain expiry tracking across the fleet.
 
 `NestJS` `React` `PostgreSQL` `Redis` `TypeScript`
 
@@ -46,6 +40,13 @@ Built the WebUtility, GHL Reports, Plugins and Notifications modules: GHL data s
 Backend services inside a microservices / micro-frontend architecture on Kubernetes. BullMQ drives scheduled publishing across social platforms; Sentry for error tracking.
 
 `NestJS` `GraphQL` `Apollo` `PostgreSQL` `Kubernetes` `Sentry`
+
+---
+
+### Prototypes
+
+**Dialytics** — AI call transcription & analytics. FFmpeg normalisation, Piscina worker threads running transcription and sentiment analysis off the event loop, Markdown-to-PDF reporting via Postmark. *Not currently deployed.*
+`Node.js` `Express` `Piscina` `FFmpeg` `MySQL`
 
 ---
 
